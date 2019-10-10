@@ -1,7 +1,6 @@
 {
     "name": "tigusigalpa/mailru",
     "license": "MIT",
-    "type": "composer-plugin",
     "keywords": ["php", "mailru", "mail.ru", "api", "sendbox"],
     "description": "MailRu for business SendBox service API",
     "autoload": {
