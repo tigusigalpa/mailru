@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8">
+<phpunit colors="true" bootstrap="vendor/autoload.php">
+    <testsuites>
+        <testsuite name="Test MailRu API Sendbox">
+            <file>./tests/API/Sendbox/SendboxTest.php</file>
+            <file>./tests/API/Sendbox/EmailTest.php</file>
+            <file>./tests/API/Sendbox/SMSTest.php</file>
+            <file>./tests/API/Sendbox/SMTPTest.php</file>
+        </testsuite>
+    </testsuites>
+</phpunit>
