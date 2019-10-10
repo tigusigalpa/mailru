@@ -1,6 +1,7 @@
 {
     "name": "tigusigalpa/mailru",
     "license": "MIT",
+    "type": "library",
     "keywords": ["php", "mailru", "mail.ru", "api", "sendbox"],
     "description": "MailRu for business SendBox service API",
     "autoload": {
